@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#issMap {
+    height: 300px;
+}
+
+#header {
+    display:  flex;
+    justify-content: center;
+
+}
+
+#desc{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+#word{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#disclaimer{
+    display: flex;
+    justify-content: center;
+    color: red;
+}
