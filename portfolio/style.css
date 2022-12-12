@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;600;800&family=Poppins:wght@300;400;500;600;700&display=swap'); 
+
+body{
+    font-family: 'Inter', sans-serif;
+    color: white;
+    background-color: #121212;
+}
+
+#list {
+    display:  flex;
+    list-style: none;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 24px;
+}
+
+.navbar{
+    margin: 80px;
+}
+
+.welcome{
+    font-size: 40px;
+    margin-top: 209px;
+}
+
+.scroll{
+    display: flex;
+    justify-content: center;
+}
+
+.scroll-icon{
+    display: flex;
+    justify-content: center;
+}
+.hero-bottom{
+    margin-top: 127px;
+}
+
+#scroll-text{
+    font-size: 24px;
+    margin: 0px;
+}
+
+#below{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#hero{
+    display:  flex;
+    justify-content: center;
+}
+
+.profile{
+    display:  flex;
+    justify-content: center;
+    margin-top: 209px;
+}
+
+.text-profile{
+    padding-left: 40px;
+    width: 703px;
+}
+
+#headline{
+    font-size: 40px;
+}
+
+#desc{
+    font-size: 24px;
+}
+
+.nav:hover{
+    background-color: red;
+}
+
+.nav{
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.skill{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 432px;
+}
+
+.skill-text{
+    justify-content: center;
+    align-items: center;
+    width: 808px;
+}
+
+#skill-headline{
+    font-size: 40px;
+    text-align: center;
+}
+
+#skill-desc{
+    font-size: 24px;
+    text-align: center;
+}
+.skill-icons{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 130px;
+}
+
